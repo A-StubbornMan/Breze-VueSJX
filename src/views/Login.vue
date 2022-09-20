@@ -88,8 +88,8 @@
         kaptchaImg: "",
         // 登录表单
         loginForm: {
-          username: "",
-          password: "",
+          username: "tylt6688",
+          password: "123456",
           code: "",
           key: "",
         },
